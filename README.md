@@ -1,4 +1,5 @@
 Personal Finance Management System
+
 A web application for managing personal finances with multi-currency support.
 
 Features
